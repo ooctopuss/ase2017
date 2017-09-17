@@ -4,12 +4,12 @@
 This repository contains the material for the "Advanced Software
 Engineering" course at UNITN, 2017-2018 edition.
 
-* Syllabus: [[Support Material/Syllabus.docx]]
+* Syllabus
+  [[- Support Material/Syllabus.docx]]
 
 * Schedule:
-
-  Monday 14:10-15:50 Room B104
-  Wednesdary 14:10-15:50 Room B104
+  - Monday 14:10-15:50 Room B104
+  - Wednesdary 14:10-15:50 Room B104
 
 * Lesson 1. Introduction
   <2017-09-13 Wed>
