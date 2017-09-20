@@ -17,3 +17,5 @@ Team |                         Members                   | GitHub
 9    | Gentiana Berisha, Fatnassi Mouslim, Vergani Beatrice | [@VBeatrice](https://github.com/VBeatrice)
 10   | Dellantonio Roberto, Holler Lorenzo               | [@Rob097](https://github.com/Rob097)
 11   | Francesco Salani, Simone Anzelini, Luka Buisic    | [@SalaniUNITN](https://github.com/SalaniUNITN)
+12   | Andrea Tobaldi, Massimo Maffei                    | [@TobaJR](https://github.com/TobaJR)
+
