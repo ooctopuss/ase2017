@@ -451,6 +451,31 @@ It is like `map` but returns only the elements that match the condition
 => [2, 4]
 ~~~
 
+## `reduce` and `inject`
+
+Invoke the given block once for each element of `self` and create a **new array** containing the values returned by the block.
+
+A simple example: sum all the numbers in an array
+
+~~~ruby
+[2, 3, 6].reduce :+ # => 11
+
+# same as
+[2, 3, 6].reduce { |i, acc| acc += i }
+[2, 3, 6].inject { |i, acc| acc += i }
+~~~
+
+You can also specify an initial value for the accumulator
+
+~~~ruby
+food = {"Pizza"=>:molto_buono, "Carciofi"=>:non_buono, "Salsiccia"=>:molto_buono, "Pajata"=>:non_so, "Mozzarella"=>:buono, "Aragosta"=>:ottimo}
+food.values.reduce(Hash.new(0)) do |acc, value|
+  acc[value] += 1
+  acc
+end
+# => {:molto_buono=>2, :non_buono=>1, :non_so=>1, :buono=>1, :ottimo=>1}
+~~~
+
 # Method definition
 
 Open the definition with `def` and close it with `end`
