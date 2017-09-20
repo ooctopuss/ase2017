@@ -15,3 +15,4 @@ Team |                         Members                   | GitHub
 7    | Mouez Khelifi, Massimiliano Leonardi              | [@Glonor](https://github.com/Glonor)
 8    | Viktoriya Kasiy, Luca Prezzi, Paolo Saglia        | [@lucaprezzi](https://github.com/lucaprezzi)
 9    | Gentiana Berisha, Fatnassi Mouslim, Vergani Beatrice | [@VBeatrice](https://github.com/VBeatrice)
+10   | Dellantonio Roberto, Holler Lorenzo               | [@Rob097](https://github.com/Rob097)
