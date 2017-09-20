@@ -12,3 +12,5 @@ Team |                         Members                   | GitHub
 4    | Giovanelli Anna                                   | [@AnnaGiovelli](https://github.com/AnnaGiovanelli)
 5    | Matteo Bortolon, Jessica Lucchetta                | [@jessical97](https://github.com/jessical97)
 6    | Viktoriya Kasiy, Luca Prezzi, Paolo Saglia        | [@lucaprezzi](https://github.com/lucaprezzi)
+7    | Gabriele Zanelli, Federico Pallaver, Pietro Camin | [@GabZan97](https://github.com/GabZan97)
+
