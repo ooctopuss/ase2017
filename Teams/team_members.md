@@ -16,3 +16,4 @@ Team |                         Members                   | GitHub
 8    | Viktoriya Kasiy, Luca Prezzi, Paolo Saglia        | [@lucaprezzi](https://github.com/lucaprezzi)
 9    | Gentiana Berisha, Fatnassi Mouslim, Vergani Beatrice | [@VBeatrice](https://github.com/VBeatrice)
 10   | Dellantonio Roberto, Holler Lorenzo               | [@Rob097](https://github.com/Rob097)
+11   | Francesco Salani, Simone Anzelini, Luka Buisic    | [@SalaniUNITN](https://github.com/SalaniUNITN)
