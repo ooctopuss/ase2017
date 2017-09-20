@@ -34,4 +34,4 @@ Engineering" course at UNITN, 2017-2018 edition.
 * Lesson 3.
   <2017-09-20>
 
-  * [[Tutorials/01_ruby_basics_1.md - Ruby basics (part 1)]]
+  * [[Tutorials/01_ruby_basics_1.md]] Ruby basics (part 1)
