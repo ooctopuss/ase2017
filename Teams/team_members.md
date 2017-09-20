@@ -14,3 +14,4 @@ Team |                         Members                   | GitHub
 6    | Gabriele Zanelli, Federico Pallaver, Pietro Camin | [@GabZan97](https://github.com/GabZan97)
 7    | Mouez Khelifi, Massimiliano Leonardi              | [@Glonor](https://github.com/Glonor)
 8    | Viktoriya Kasiy, Luca Prezzi, Paolo Saglia        | [@lucaprezzi](https://github.com/lucaprezzi)
+9    | Gentiana Berisha, Fatnassi Mouslim, Vergani Beatrice | [@VBeatrice](https://github.com/VBeatrice)
